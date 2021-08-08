@@ -4,6 +4,12 @@
     listFolded: true,
     audio: [
       {
+        name: "Dakiti (D3ZAI Remix)",
+        artist: "Bad Bunny & Jhay Cortez",
+        url: "./assets/audio/dakiti.m4a",
+        cover: "./assets/img/dakiti.jpg"
+      },
+      {
         name: "Aurora (D3ZAI Remix)",
         artist: "K-391 & RØRY",
         url: "./assets/audio/aurora.m4a",
